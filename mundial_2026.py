@@ -23,3 +23,4 @@ while n < 4:
 sel_argentina.mostrar_plantel()
 
 sel_mexico=SeleccionFutbol("Mexico","Juan Perez",0,"H")
+sel_mexico=SeleccionFutbol("España","De la fuente",0,"A")
