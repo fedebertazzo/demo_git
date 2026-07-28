@@ -21,5 +21,4 @@ while n < 4:
     n +=1
 
 sel_argentina.mostrar_plantel()
-
-sel_mexico=SeleccionFutbol("Mexico","Juan Perez",0,"H")
+#Acabo de modificar el archivo desde GITHUB
