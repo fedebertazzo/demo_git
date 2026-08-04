@@ -57,6 +57,6 @@ class SeleccionFutbol:
             if jugador.posicion == "Delantero":
                 print(f"{jugador.nombre} {jugador.apellido}")
 
-    def juega_con(self, equipo_contrario):
-        #Usar un random de goles
-        #La seleccion que mete mas goles suma puntos
+    # def juega_con(self, equipo_contrario):
+    #     #Usar un random de goles
+    #     #La seleccion que mete mas goles suma puntos

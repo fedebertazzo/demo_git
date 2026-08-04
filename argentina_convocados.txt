@@ -1,0 +1,5 @@
+Lionel,Messi,Delantero
+Federico,Bertazzo,Delantero
+Rodri,De Paul,Mediocampista
+Nahuel,Molina,Defensor
+Emiliano,Martinez,Arquero
