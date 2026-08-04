@@ -8,16 +8,15 @@ def escribir_archivo(nombre_archivo,texto):
     archivo.close()
 
 #FUNCION LEER EN ARCHIVO
-def leer_archivo(nombre_archivo,texto):
+def leer_archivo(nombre_archivo):
     archivo = open(nombre_archivo,"r",encoding="utf-8")
-    contenido=archivo.readlines(texto)
+    contenido=archivo.readlines()
     # TAREA:Con la lista de la variable "contenido", armo la lista de convocados de la seleccion
     archivo.close()
 
-lionel_messi = Jugador("Lionel","Messi","Delantero")
-rodri_depaul = Jugador("Rodrigo", "De Paul", "Mediocampista")
 
 sel_argentina = SeleccionFutbol("Argentina", "Lionel Scaloni", 3,"H")
+leer_archivo("argentina_convocados.txt")
 #Lea el archivo de convocados y los muestre con el método "mostrar_plantel"
 
 # TAREA #2: Hacer un menú similar al siguiente:
