@@ -2,3 +2,4 @@ Lionel,Messi,Delantero
 Lautaro,Martinez,Delantero
 Emiliano,Martinez,Arquero
 Lisandro,Martinez,Defensor
+Rodrigo,De Paul,Mediocampista
