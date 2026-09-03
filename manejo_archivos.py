@@ -1,9 +1,13 @@
+#FUNCION ESCRIBIR EN ARCHIVO
 def escribir_archivo(nombre_archivo,texto):
-    archivo = open(nombre_archivo,"w",encoding="utf-8")
+    archivo = open(nombre_archivo,"a",encoding="utf-8")
     archivo.write(texto)
     archivo.close()
 
-
-lionel_messi = Jugador("Lionel","Messi","Delantero")
-
-escribir_archivo("argentina_convocados.txt",f"{lionel_messi.nombre},{lionel_messi.apellido}, {lionel_messi.posición}")
+#FUNCION LEER EN ARCHIVO
+def leer_archivo(nombre_archivo):
+    archivo = open(nombre_archivo,"r",encoding="utf-8") #Abre el archivo en modo lectura
+    contenido=archivo.readlines() #Lee todo el contenido y lo almacena como lista
+    # print(contenido)
+    archivo.close() #Cierre del archivo
+    return contenido #Devuelve la lista contenido al llamar a la función

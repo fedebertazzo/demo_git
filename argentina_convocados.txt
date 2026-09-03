@@ -1,5 +1,24 @@
 Lionel,Messi,Delantero
-Lautaro,Martinez,Delantero
 Emiliano,Martinez,Arquero
-Lisandro,Martinez,Defensor
-Rodrigo,De Paul,Mediocampista
+Gonzalo,Montiel,Defensor
+Lionel,Messi,Delantero
+Emiliano,Martinez,Arquero
+Gonzalo,Montiel,Defensor
+Lionel,Messi,Delantero
+Emiliano,Martinez,Arquero
+Gonzalo,Montiel,Defensor
+Lionel,Messi,Delantero
+Emiliano,Martinez,Arquero
+Gonzalo,Montiel,Defensor
+Lionel,Messi,Delantero
+Emiliano,Martinez,Arquero
+Gonzalo,Montiel,Defensor
+Lionel,Messi,Delantero
+Emiliano,Martinez,Arquero
+Gonzalo,Montiel,Defensor
+Lionel,Messi,Delantero
+Emiliano,Martinez,Arquero
+Gonzalo,Montiel,Defensor
+Lionel,Messi,Delantero
+Emiliano,Martinez,Arquero
+Gonzalo,Montiel,Defensor
