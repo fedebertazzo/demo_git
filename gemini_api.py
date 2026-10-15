@@ -3,6 +3,12 @@ from getpass import getpass
 from key_google import GOOGLE_API_KEY
 
 #IMPORTANTE: Antes de ejecutar el código seguir los pasos para crear una "API Key".
+#1) Ingresar a https://aistudio.google.com/api-keys con su cuenta de Google
+#2) Hacer click en el botón "Crear clave de API"
+#3) Asignar un nombre de referencia a la clave API
+#4) Elegir un proyecto o crear un proyecto nuevo.
+
+# Web de ayuda: https://aistudio.google.com/docs/get-started
 
 #Una "API Key" es una secuencia cifrada que autentica el uso de la librería de la plataforma Google Gemini u OpenIA ChatGPT a ejecutarse desde el código Pyhton.
 
